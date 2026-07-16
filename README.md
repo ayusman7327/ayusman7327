@@ -30,7 +30,6 @@
 - Contributing consistently on GitHub
 - Growing as a Full Stack Developer
 
-- -
 # 🛠 Tech Stack
 
 ### Languages
