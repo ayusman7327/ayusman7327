@@ -12,23 +12,25 @@
 
 # 🚀 About Me
 
-🎓 B.Tech CSIT Student at **ITER, SOA University**
+🎓 B.Tech CSIT Student 
 
 💡 Passionate about solving real-world problems through technology.
 
-🌱 Currently Learning
-- Data Structures & Algorithms (Java)
-- MERN Stack Development
-- System Design
-- AI Integration
+🌱 Currently Building
 
-🎯 Goal
-- Crack Product-Based Companies
-- Become a Top Software Engineer
-- Build my own AI Startup
+- AI-Powered Full Stack Applications
+- Scalable MERN Stack Projects
+- Java Backend Development
+- Clean UI/UX Experiences
 
----
+🎯 Focus
 
+- Building production-ready applications
+- Strengthening problem-solving with Java
+- Contributing consistently on GitHub
+- Growing as a Full Stack Developer
+
+- -
 # 🛠 Tech Stack
 
 ### Languages
