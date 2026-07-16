@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayushman Mishra
+# 👋 Hey, I'm Ayusman Mishra
 
 ### 💻 Full Stack Developer | Java Developer | AI Enthusiast
 
