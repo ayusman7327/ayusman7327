@@ -1,65 +1,141 @@
-<h1 align="center">Hey there! I'm Ayusman 👋</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer</h3>
+# 👋 Hey, I'm Ayushman Mishra
 
----
+### 💻 Full Stack Developer | Java Developer | AI Enthusiast
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+DSA+in+Java;AI+%2B+Full+Stack+Developer;Future+Software+Engineer" />
 
-- 🎯 Learning MERN Stack, Java and Full Stack Development
-- 💡 Exploring DSA, AI integration and real-world applications
-- 💻 Building Real world projects
-- 📈 Aspiring to build useful software products
-- 🔥 I enjoy learning, building and solving problems
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 🚀 About Me
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+🎓 B.Tech CSIT Student at **ITER, SOA University**
 
----
+💡 Passionate about solving real-world problems through technology.
 
-## 🚀 Featured Project
+🌱 Currently Learning
+- Data Structures & Algorithms (Java)
+- MERN Stack Development
+- System Design
+- AI Integration
 
-### BusinessOS AI
-
-An AI-powered business management platform for handling customers, invoices, inventory and business operations.
-
-- React and Tailwind CSS frontend
-- Node.js and Express backend
-- MongoDB database
-- JWT authentication
-- AI-powered business assistant
-
-[View BusinessOS AI](https://github.com/ayusman7327/BusinessOS-AI)
+🎯 Goal
+- Crack Product-Based Companies
+- Become a Top Software Engineer
+- Build my own AI Startup
 
 ---
 
-## 📊 My GitHub Stats
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight" />
-</p>
+### Languages
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayusman7327&theme=tokyonight" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight" />
-</p>
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
 ---
 
+# 🌟 Featured Projects
 
-⭐ Always learning, always building! 🚀
+## 🤖 BusinessOS AI
+
+An AI-powered business management platform built using the MERN stack.
+
+### Features
+
+- CRM
+- Inventory Management
+- Customer Management
+- Invoice Generation
+- AI Business Assistant
+- Authentication
+- Analytics Dashboard
+
+**Tech Used**
+
+React • Node.js • Express • MongoDB • JWT
+
+---
+
+## 🛒 NexCart
+
+Modern MERN E-Commerce Platform
+
+### Features
+
+- Authentication
+- Shopping Cart
+- Product Management
+- Admin Dashboard
+- MongoDB Database
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayusman7327&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ayusman7327&theme=algolia&margin-w=15&margin-h=15)
+
+---
+
+# 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=react-dark)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayusman-mishra-b76976352)
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ayusman7327)
+
+📧 Email:
+**ayushmanmishra855@gmail.com**
+
+---
+
+<div align="center">
+
+## 💬 Favorite Quote
+
+> *"Discipline beats motivation. Consistency builds greatness."*
+
+⭐ If you like my work, consider starring my repositories!
+
+</div>
