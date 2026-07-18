@@ -1,76 +1,82 @@
 <div align="center">
 
-# Hi 👋 I'm Ayusman Mishra
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=230&section=header&text=Ayushman%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Java%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
 
-### Full Stack Developer • Java Developer • MERN Stack • AI Enthusiast
+<p>
 
-Building scalable web applications and solving real-world problems through modern software development.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;Java+%7C+React+%7C+Node.js+%7C+MongoDB;AI-Powered+Software+Solutions;Always+Learning.+Always+Building."/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayusman-mishra-b76976352)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayusman7327)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushmanmishra855@gmail.com)
+</p>
+
+<p>
+
+<a href="https://github.com/ayusman7327">
+<img src="https://img.shields.io/github/followers/ayusman7327?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ayushmanmishra855@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a B.Tech Computer Science (CSIT) student at **ITER, Siksha 'O' Anusandhan University** with a strong interest in Full Stack Development, Java, and Artificial Intelligence.
+```java
+class AyushmanMishra {
 
-I enjoy building practical software that solves business problems and continuously improving my software engineering skills through real-world projects.
+    String role = "Full Stack Developer";
 
----
+    String[] languages = {
+        "Java",
+        "JavaScript"
+    };
 
-## 🚀 Technical Skills
+    String[] technologies = {
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Git",
+        "REST APIs"
+    };
 
-### Languages
-- Java
-- JavaScript
-- HTML5
-- CSS3
+    String passion = "Building software that solves real-world problems.";
 
-### Frontend
-- React.js
-- Tailwind CSS
-- Responsive UI
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-
-### Database
-- MongoDB
-- Mongoose
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+}
+```
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 ## 🤖 BusinessOS AI
 
-AI-powered Business Management Platform
+> AI-powered Business Management Platform
 
-### Highlights
+✔ Customer Management
 
-- Customer Management
-- Inventory Management
-- Invoice Generation
-- Authentication & Authorization
-- Analytics Dashboard
-- AI Business Assistant
+✔ Inventory Management
 
-**Tech Stack**
+✔ Invoice System
 
-React • Node.js • Express • MongoDB • JWT
+✔ Analytics Dashboard
+
+✔ Authentication
+
+✔ AI Assistant
+
+**Stack**
+
+React • Node.js • Express • MongoDB
 
 ---
 
@@ -78,76 +84,119 @@ React • Node.js • Express • MongoDB • JWT
 
 Modern MERN E-Commerce Platform
 
-### Features
-
-- User Authentication
-- Shopping Cart
+- Secure Authentication
 - Product Management
+- Shopping Cart
+- Responsive UI
 - Admin Dashboard
-- Responsive Design
 
 ---
 
-## 💼 What I'm Currently Building
+## 📈 Investment Tracker
 
-- AI-powered web applications
-- Full Stack MERN projects
-- Scalable backend APIs
-- Production-ready software solutions
+Track investments, monitor portfolios, and visualize financial data with a clean full-stack application.
 
 ---
 
-## 🎯 Career Interests
+# 💻 Tech Stack
 
-- Software Engineering
-- Full Stack Development
-- Backend Development
-- Java Development
+### Languages
 
-I'm actively seeking opportunities where I can contribute, learn from experienced engineers, and build impactful products.
+<p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,js"/>
 
 </p>
 
-<p align="center">
+### Frontend
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusman7327&theme=github-dark-blue&hide_border=true"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 
 </p>
 
----
+### Backend
 
-## 📈 Contribution Graph
+<p>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=github-dark"/>
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 📊 GitHub Analytics
 
-- 📧 **Email:** ayushmanmishra855@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ayusman-mishra-b76976352
-- 💻 **GitHub:** https://github.com/ayusman7327
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusman7327&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayusman7327&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ayushmanmishra855@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/ayusman7327">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### "Building software that solves real problems."
+### 💡 *"I enjoy building software that transforms ideas into reliable, user-focused products."*
 
-⭐ Thanks for visiting my profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
+````
