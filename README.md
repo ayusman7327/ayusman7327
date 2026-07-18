@@ -1,84 +1,74 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayusman Mishra
+# Hi 👋 I'm Ayushman Mishra
 
-### 💻 Full Stack Developer | Java Developer | AI Enthusiast
+### Full Stack Developer • Java Developer • MERN Stack • AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+DSA+in+Java;AI+%2B+Full+Stack+Developer;Future+Software+Engineer" />
+Building scalable web applications and solving real-world problems through modern software development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayusman-mishra-b76976352)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayusman7327)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushmanmishra855@gmail.com)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech CSIT Student 
+I am a B.Tech Computer Science (CSIT) student at **ITER, Siksha 'O' Anusandhan University** with a strong interest in Full Stack Development, Java, and Artificial Intelligence.
 
-💡 Passionate about solving real-world problems through technology.
-
-🌱 Currently Building
-
-- AI-Powered Full Stack Applications
-- Scalable MERN Stack Projects
-- Java Backend Development
-- Clean UI/UX Experiences
-
-🎯 Focus
-
-- Building production-ready applications
-- Strengthening problem-solving with Java
-- Contributing consistently on GitHub
-- Growing as a Full Stack Developer
-
-# 🛠 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+I enjoy building practical software that solves business problems and continuously improving my software engineering skills through real-world projects.
 
 ---
 
-# 🌟 Featured Projects
+## 🚀 Technical Skills
+
+### Languages
+- Java
+- JavaScript
+- HTML5
+- CSS3
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Responsive UI
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+
+### Database
+- MongoDB
+- Mongoose
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+# 📌 Featured Projects
 
 ## 🤖 BusinessOS AI
 
-An AI-powered business management platform built using the MERN stack.
+AI-powered Business Management Platform
 
-### Features
+### Highlights
 
-- CRM
-- Inventory Management
 - Customer Management
+- Inventory Management
 - Invoice Generation
-- AI Business Assistant
-- Authentication
+- Authentication & Authorization
 - Analytics Dashboard
+- AI Business Assistant
 
-**Tech Used**
+**Tech Stack**
 
 React • Node.js • Express • MongoDB • JWT
 
@@ -90,53 +80,74 @@ Modern MERN E-Commerce Platform
 
 ### Features
 
-- Authentication
+- User Authentication
 - Shopping Cart
 - Product Management
 - Admin Dashboard
-- MongoDB Database
+- Responsive Design
 
 ---
 
-# 📈 GitHub Stats
+## 💼 What I'm Currently Building
 
-![](https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayusman7327&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ayusman7327&theme=algolia&margin-w=15&margin-h=15)
+- AI-powered web applications
+- Full Stack MERN projects
+- Scalable backend APIs
+- Production-ready software solutions
 
 ---
 
-# 📊 Contribution Graph
+## 🎯 Career Interests
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=react-dark)
+- Software Engineering
+- Full Stack Development
+- Backend Development
+- Java Development
+
+I'm actively seeking opportunities where I can contribute, learn from experienced engineers, and build impactful products.
 
 ---
 
-# 🌐 Connect With Me
+# 📊 GitHub Statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayusman-mishra-b76976352)
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ayusman7327)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=github_dark&hide_border=true"/>
 
-📧 Email:
-**ayushmanmishra855@gmail.com**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayusman7327&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=github-dark"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 **Email:** ayushmanmishra855@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ayusman-mishra-b76976352
+- 💻 **GitHub:** https://github.com/ayusman7327
 
 ---
 
 <div align="center">
 
-## 💬 Favorite Quote
+### "Building software that solves real problems."
 
-> *"Discipline beats motivation. Consistency builds greatness."*
-
-⭐ If you like my work, consider starring my repositories!
+⭐ Thanks for visiting my profile.
 
 </div>
