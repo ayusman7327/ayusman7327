@@ -1,64 +1,62 @@
-<!-- ========================= HEADER ========================= -->
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:1F6FEB&text=Hi,%20I'm%20Ayusman%20Mishra&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Turning%20ideas%20into%20intelligent%20digital%20products&descAlignY=59&descSize=17&animation=fadeIn"
   width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:171321,100:6E40C9&text=Hi,%20I'm%20Ayusman%20Mishra&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20building%20intelligent%20digital%20products&descAlignY=59&descSize=17&animation=fadeIn"
   alt="Ayusman Mishra"
 />
 
-<br/>
-
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+AI+Products"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+AI+Products"
   alt="Typing animation"
 />
 
 <br/>
 
 <p>
-  I design and build modern full-stack applications and AI-powered products<br/>
-  focused on business automation, financial intelligence and digital security.
+  I build polished full-stack applications and intelligent products focused on
+  business automation, financial technology and digital security.
 </p>
 
-<br/>
+<p>
+  <a href="https://github.com/ayusman7327">
+    <img
+      src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
-<a href="https://github.com/ayusman7327">
-  <img
-    src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+  <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:ayushmanmishra855@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+  <a href="mailto:ayushmanmishra855@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</p>
 
 </div>
 
-<br/>
-
 ---
-
-<!-- ========================= DEVELOPER PROFILE ========================= -->
 
 ## 👨‍💻 Developer Profile
 
 ```javascript
 const ayusman = {
   role: "Full Stack Developer",
-  specialization: "AI-Powered Web Applications",
+
+  expertise: [
+    "React Applications",
+    "REST API Development",
+    "Database-Driven Systems",
+    "AI-Powered Products"
+  ],
 
   languages: [
     "Java",
@@ -66,45 +64,33 @@ const ayusman = {
     "JavaScript"
   ],
 
-  technologies: [
-    "React",
-    "Node.js",
-    "Express.js",
-    "MongoDB"
-  ],
-
-  interests: [
+  currentFocus: [
     "Artificial Intelligence",
     "Machine Learning",
-    "Business Automation",
-    "Financial Technology",
-    "Cybersecurity"
+    "RAG Systems",
+    "Scalable Full-Stack Applications"
   ],
 
-  currentMission: "Build products that solve meaningful real-world problems"
+  mission: "Transform real-world problems into useful digital products"
 };
 ```
 
-<br/>
-
 ---
-
-<!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Technology Stack
 
 <div align="center">
 
-### Programming Languages
+### Languages
 
 <img
   src="https://skillicons.dev/icons?i=java,python,javascript,html,css"
-  alt="Programming languages"
+  alt="Languages"
 />
 
 <br/><br/>
 
-### Frontend Development
+### Frontend
 
 <img
   src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"
@@ -113,11 +99,11 @@ const ayusman = {
 
 <br/><br/>
 
-### Backend & Database
+### Backend and Database
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"
-  alt="Backend and database technologies"
+  alt="Backend technologies"
 />
 
 <br/><br/>
@@ -131,11 +117,7 @@ const ayusman = {
 
 </div>
 
-<br/>
-
 ---
-
-<!-- ========================= FEATURED PROJECTS ========================= -->
 
 ## 🚀 Featured Projects
 
@@ -144,66 +126,66 @@ const ayusman = {
 
 <td width="50%" valign="top">
 
-<h3 align="center">🧠 BusinessOS AI</h3>
+<h2 align="center">🧠 BusinessOS AI</h2>
 
 <p align="center">
-  <strong>AI-Powered Business Management Platform</strong>
+<strong>AI-Powered Business Management Platform</strong>
 </p>
 
-BusinessOS AI is a full-stack platform designed to help businesses manage their daily operations from one intelligent dashboard.
+A full-stack platform that helps businesses manage customers, inventory, invoices and everyday operations through one intelligent dashboard.
 
-### Core Features
+### Key Features
 
-- AI-powered business assistant
+- AI business assistant
 - Customer relationship management
 - Product and inventory management
-- Invoice generation and tracking
+- Invoice creation and tracking
 - Business analytics dashboard
-- Sales and performance insights
+- Sales and operational insights
 - Secure JWT authentication
-- Responsive modern interface
+- Responsive user interface
 
 ### Technology Stack
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">💰 FinWise AI</h3>
+<h2 align="center">💰 FinWise AI</h2>
 
 <p align="center">
-  <strong>AI-Powered Personal Finance Platform</strong>
+<strong>AI-Powered Finance Management Platform</strong>
 </p>
 
-FinWise AI is an intelligent financial management application that helps users manage expenses, budgets and investments using data-driven insights.
+An intelligent personal finance application that helps users track expenses, manage budgets, monitor investments and understand their financial activity.
 
-### Core Features
+### Key Features
 
 - Income and expense tracking
 - Smart budget management
 - Financial category management
 - Investment portfolio dashboard
-- Interactive charts and analytics
+- Interactive financial charts
 - AI-powered financial insights
-- Secure user authentication
-- Responsive finance dashboard
+- Secure authentication
+- Responsive dashboard
 
 ### Technology Stack
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Recharts-8884D8?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recharts-8884D8?style=flat-square"/>
 </p>
 
 </td>
@@ -214,64 +196,64 @@ FinWise AI is an intelligent financial management application that helps users m
 
 <td width="50%" valign="top">
 
-<h3 align="center">🛡️ Fraud Shield AI</h3>
+<h2 align="center">🛡️ Fraud Shield AI</h2>
 
 <p align="center">
-  <strong>AI Fraud Detection & Security Platform</strong>
+<strong>AI-Based Fraud Detection Platform</strong>
 </p>
 
-Fraud Shield AI is an intelligent fraud detection platform designed to identify suspicious SMS messages, phishing emails and malicious URLs.
+An intelligent security platform designed to detect fraudulent SMS messages, phishing emails and potentially malicious URLs using machine learning and NLP.
 
-### Core Features
+### Key Features
 
 - SMS fraud detection
 - Email phishing detection
 - Suspicious URL analysis
-- Machine learning classification
-- Natural language processing
-- Fraud probability score
-- Explainable detection results
-- AI-powered security assistant
+- Machine-learning classification
+- Natural-language processing
+- Fraud-risk scoring
+- Explainable prediction results
+- AI security assistant
 
 ### Technology Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-6E40C9?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚡ Currently Building</h3>
+<h2 align="center">⚡ Development Focus</h2>
 
 <p align="center">
-  <strong>Advanced Full-Stack & AI Solutions</strong>
+<strong>Building Useful and Scalable Products</strong>
 </p>
 
-I am continuously improving my existing projects and building new products focused on automation, intelligence and real-world usability.
+I focus on developing applications that combine reliable backend systems, polished interfaces and intelligent features.
 
-### Current Focus
+### Currently Exploring
 
-- AI-powered automation
 - Retrieval-Augmented Generation
-- Machine learning applications
-- Secure REST APIs
-- Scalable backend systems
-- Modern dashboard interfaces
-- Real-world problem solving
-- Production-ready deployments
+- AI workflow automation
+- Machine-learning applications
+- Scalable REST APIs
+- Secure authentication systems
+- Data-driven dashboards
+- Cloud deployment
+- Production-ready architecture
 
 <br/>
 
 <div align="center">
 
 ```text
-Idea → Design → Build → Test → Deploy
+Understand → Design → Build → Test → Deploy
 ```
 
 </div>
@@ -281,100 +263,56 @@ Idea → Design → Build → Test → Deploy
 </tr>
 </table>
 
-<br/>
-
 ---
 
-<!-- ========================= DEVELOPMENT FOCUS ========================= -->
-
-## 🎯 Development Focus
+## 💼 What I Work With
 
 <div align="center">
 
-| Area | What I Build |
+| Area | Focus |
 |---|---|
-| Full-Stack Development | Modern and responsive web applications |
-| Artificial Intelligence | Intelligent assistants and automation tools |
-| Machine Learning | Prediction and classification systems |
-| Business Technology | CRM, inventory, invoices and analytics |
+| Full-Stack Development | Responsive applications with React and Node.js |
+| Backend Engineering | REST APIs, authentication and database systems |
+| Artificial Intelligence | Assistants, automation and intelligent workflows |
+| Machine Learning | Fraud detection and classification systems |
+| Business Technology | CRM, invoices, inventory and analytics |
 | Financial Technology | Budgeting, investments and financial insights |
-| Digital Security | Fraud, phishing and suspicious-content detection |
 
 </div>
 
-<br/>
-
 ---
-
-<!-- ========================= GITHUB ANALYTICS ========================= -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true"
-  height="175"
-  alt="Ayusman's GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"
-  height="175"
-  alt="Ayusman's most used languages"
-/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ========================= CONTRIBUTION GRAPH ========================= -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&bg_color=0D1117&color=C9D1D9&line=A371F7&point=FFFFFF&area_color=6E40C9&area=true&hide_border=true&custom_title=Ayusman%20Mishra's%20Contribution%20Activity"
   width="100%"
-  alt="Ayusman's GitHub contribution graph"
+  alt="Ayusman's contribution activity graph"
 />
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ========================= ENGINEERING MINDSET ========================= -->
-
-## 💡 Engineering Mindset
+## 💡 Developer Mindset
 
 <div align="center">
 
-> **I do not build projects only to complete them.  
-> I build products to understand problems, design solutions and improve through every iteration.**
+> ### I build projects to understand problems, engineer solutions and turn ideas into products people can actually use.
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ========================= CONNECT ========================= -->
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
 <p>
-I am open to software development opportunities, technical collaborations<br/>
-and conversations about full-stack development and artificial intelligence.
+Open to software-development opportunities, technical collaborations and conversations about full-stack development and artificial intelligence.
 </p>
-
-<br/>
 
 <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
   <img
@@ -397,19 +335,13 @@ and conversations about full-stack development and artificial intelligence.
   />
 </a>
 
-</div>
-
-<br/>
-
-<!-- ========================= FOOTER ========================= -->
-
-<div align="center">
+<br/><br/>
 
 ### Building intelligent products. Solving real problems. Improving every day.
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F6FEB,50:161B22,100:0D1117&section=footer"
   width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6E40C9,45:171321,100:0D1117&section=footer"
   alt="Footer"
 />
 
