@@ -5,21 +5,30 @@ Full Stack Developer • Java Developer • AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-I build modern full-stack applications and intelligent digital products focused on
-business automation, financial technology and digital security.
+I build intelligent full-stack applications that solve real-world problems in
+business management, finance and digital security.
 </p>
 
 <p align="center">
   <a href="https://github.com/ayusman7327">
-    <img src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 
   <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:ayushmanmishra855@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
@@ -27,85 +36,154 @@ business automation, financial technology and digital security.
 
 ## About Me
 
-- Building full-stack web applications using React, Node.js, Express.js and MongoDB
-- Exploring artificial intelligence, machine learning and RAG systems
-- Interested in backend engineering, automation and intelligent dashboards
-- Focused on creating practical projects that solve real-world problems
-- Continuously improving my problem-solving and software-development skills
+I am a Full Stack Developer focused on building practical and scalable software products.
+
+I enjoy working with modern frontend technologies, backend APIs, databases and artificial intelligence to turn ideas into useful applications.
+
+- Building full-stack applications with React, Node.js, Express.js and MongoDB
+- Developing secure REST APIs and authentication systems
+- Exploring machine learning, RAG systems and AI automation
+- Creating applications for business management, finance and cybersecurity
+- Improving my Java, Python, DSA and problem-solving skills
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel" alt="Technology stack"/>
-</p>
+<div align="center">
+
+### Languages
+
+<img
+  src="https://skillicons.dev/icons?i=java,python,javascript,html,css"
+  alt="Programming languages"
+/>
+
+<br/><br/>
+
+### Frontend
+
+<img
+  src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"
+  alt="Frontend technologies"
+/>
+
+<br/><br/>
+
+### Backend and Database
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"
+  alt="Backend and databases"
+/>
+
+<br/><br/>
+
+### Tools and Platforms
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm"
+  alt="Development tools"
+/>
+
+</div>
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### BusinessOS AI
+## BusinessOS AI
 
-**AI-Powered Business Management Platform**
+### AI-Powered Business Management Platform
 
-A full-stack platform that allows businesses to manage customers, products, inventory, invoices and everyday operations through one dashboard.
+BusinessOS AI is a full-stack business management platform that allows businesses to manage customers, products, inventory, invoices and business activity from one dashboard.
 
-**Main Features**
+### Main Features
 
-- AI business assistant
-- Customer management
+- AI-powered business assistant
+- Customer relationship management
 - Product and inventory management
 - Invoice creation and tracking
-- Business analytics
-- Secure JWT authentication
-- Responsive dashboard
+- Business analytics dashboard
+- Sales and operational insights
+- JWT-based authentication
+- Protected routes
+- Responsive user interface
+- MongoDB database integration
 
-**Technology**
+### Technology Stack
 
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ayusman7327">
+    <img
+      src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="BusinessOS AI repository"
+    />
+  </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### FinWise AI
+## FinWise AI
 
-**AI-Powered Finance Management Platform**
+### AI-Powered Personal Finance Platform
 
-A finance application designed to help users track income, expenses, budgets and investments through a modern dashboard.
+FinWise AI is a personal finance management application designed to help users track their income, expenses, budgets and investments through a modern dashboard.
 
-**Main Features**
+### Main Features
 
-- Income and expense tracking
-- Budget management
-- Financial categories
-- Investment monitoring
-- Interactive charts
+- Income tracking
+- Expense tracking
+- Budget creation and management
+- Financial category management
+- Investment portfolio monitoring
+- Interactive financial charts
+- Dashboard analytics
 - AI-powered financial insights
-- Secure authentication
+- Secure user authentication
+- Responsive interface
 
-**Technology**
+### Technology Stack
 
-`React` `Node.js` `Express.js` `MongoDB` `Recharts`
+`React` `Node.js` `Express.js` `MongoDB` `Recharts` `JWT`
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ayusman7327">
+    <img
+      src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="FinWise AI repository"
+    />
+  </a>
+</p>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### Fraud Shield AI
+## Fraud Shield AI
 
-**AI-Based Fraud Detection Platform**
+### AI-Based Fraud Detection Platform
 
-An intelligent security application designed to identify fraudulent SMS messages, phishing emails and suspicious URLs.
+Fraud Shield AI is an intelligent security application designed to detect fraudulent SMS messages, phishing emails and suspicious URLs using machine learning and natural-language processing.
 
-**Main Features**
+### Main Features
 
 - SMS fraud detection
 - Email phishing detection
@@ -113,85 +191,197 @@ An intelligent security application designed to identify fraudulent SMS messages
 - Machine-learning classification
 - Natural-language processing
 - Fraud-risk scoring
-- Explainable predictions
+- Explainable prediction results
+- AI security assistant
+- User-friendly scanning interface
+- Fraud-awareness recommendations
 
-**Technology**
+### Technology Stack
 
-`Python` `FastAPI` `Machine Learning` `NLP` `React`
+`Python` `FastAPI` `Machine Learning` `NLP` `Scikit-learn` `React`
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ayusman7327">
+    <img
+      src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Fraud Shield AI repository"
+    />
+  </a>
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Current Development Focus
+## NexCart
 
-I am currently learning and building around:
+### Full-Stack E-Commerce Platform
 
-- Data structures and algorithms
-- Retrieval-Augmented Generation
-- AI workflow automation
-- Machine-learning systems
-- Scalable REST APIs
-- Authentication and security
-- Cloud deployment
-- Production-ready architecture
+NexCart is a full-stack e-commerce application that allows users to browse products, create accounts, manage carts and place orders through a responsive shopping interface.
+
+### Main Features
+
+- User registration and login
+- Product browsing
+- Product detail pages
+- Shopping cart management
+- Order management
+- Secure authentication
+- MongoDB database integration
+- Responsive e-commerce interface
+- Backend API integration
+- Modern product design
+
+### Technology Stack
+
+`React` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ayusman7327">
+    <img
+      src="https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="NexCart repository"
+    />
+  </a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+## What I Build
+
+| Area | What I Work On |
+|---|---|
+| Full Stack Development | Responsive web applications using React and Node.js |
+| Frontend Development | Modern interfaces, dashboards and reusable components |
+| Backend Development | REST APIs, authentication and server-side logic |
+| Database Development | MongoDB models, schemas and application data |
+| Artificial Intelligence | AI assistants, intelligent insights and automation |
+| Machine Learning | Classification systems and fraud detection |
+| Business Technology | CRM, inventory, invoicing and analytics systems |
+| Financial Technology | Expense tracking, budgeting and investment dashboards |
+| Digital Security | Fraud, phishing and suspicious-content detection |
+
+---
+
+## Current Focus
+
+```text
+Machine Learning
+Retrieval-Augmented Generation
+AI Agents and Automation
+Data Structures and Algorithms
+Backend Architecture
+System Design
+Cloud Deployment
+Production-Ready Applications
+```
+
+---
+
+## Development Approach
+
+```text
+Understand the problem
+        ↓
+Plan the solution
+        ↓
+Design the interface and architecture
+        ↓
+Build the frontend and backend
+        ↓
+Connect the database and APIs
+        ↓
+Test and debug
+        ↓
+Deploy and improve
+```
+
+---
+
 ## GitHub Activity
 
-GitHub already shows your real contribution calendar directly on your profile below the README. That native graph is more reliable than third-party statistics cards and cannot display rate-limit errors.
-
-You can also check my repositories and recent work here:
+GitHub displays my real contribution calendar, repositories and recent development activity directly on my profile.
 
 <p align="center">
   <a href="https://github.com/ayusman7327?tab=repositories">
-    <img src="https://img.shields.io/badge/View_My-Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+    <img
+      src="https://img.shields.io/badge/Explore-My_Repositories-238636?style=for-the-badge&logo=github&logoColor=white"
+      alt="Repositories"
+    />
   </a>
 
   <a href="https://github.com/ayusman7327?tab=overview">
-    <img src="https://img.shields.io/badge/View_My-Contributions-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+    <img
+      src="https://img.shields.io/badge/View-My_Contributions-8957E5?style=for-the-badge&logo=github&logoColor=white"
+      alt="Contributions"
+    />
   </a>
 </p>
 
 ---
 
-## What I Build
+## Why I Build Projects
 
-| Area | Focus |
-|---|---|
-| Full-Stack Development | Responsive applications using React and Node.js |
-| Backend Development | REST APIs, authentication and database systems |
-| Artificial Intelligence | Intelligent assistants and workflow automation |
-| Machine Learning | Fraud detection and classification systems |
-| Business Technology | CRM, inventory, invoicing and analytics |
-| Financial Technology | Budgeting, investments and financial insights |
-| Digital Security | Fraud, phishing and suspicious-content detection |
+I believe the best way to learn software development is by building complete applications.
+
+Every project helps me improve my understanding of:
+
+- Application architecture
+- Frontend and backend integration
+- Database management
+- Authentication and security
+- API development
+- Debugging and testing
+- Deployment
+- User experience
+- Real-world problem solving
 
 ---
 
 ## Connect With Me
 
 <p align="center">
-Open to software-development opportunities, collaborations and conversations about full-stack development and artificial intelligence.
+I am open to software-development opportunities, technical collaborations and conversations about full-stack development, artificial intelligence and machine learning.
 </p>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayusman_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Ayusman_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:ayushmanmishra855@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ayushmanmishra855-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img
+      src="https://img.shields.io/badge/Gmail-ayushmanmishra855-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
   <a href="https://github.com/ayusman7327">
-    <img src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
+
 </p>
 
-<h3 align="center">Turning ideas into useful software.</h3>
+---
+
+<h3 align="center">Building intelligent products. Solving real problems.</h3>
+
+<p align="center">
+Thanks for visiting my GitHub profile.
+</p>
