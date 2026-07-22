@@ -1,176 +1,208 @@
 <div align="center">
 
-Hi, I’m Ayusman Mishra 👋
+# 👋 Hi, I'm Ayusman Mishra
 
-Full-Stack Developer | Java Developer | AI & Machine Learning Enthusiast
+### Full Stack Developer • Java Developer • AI & Machine Learning Enthusiast
 
 <p>
-I build scalable full-stack applications and AI-powered solutions focused on solving real-world problems.
+Building scalable web applications and AI-powered products that solve real-world problems.
 </p>
-<a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ayushmanmishra855@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
+<p>
 <a href="https://github.com/ayusman7327">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github">
 </a>
-</div>
 
-⸻
+<a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
+<img src="https://img.shields.io/badge/LinkedIn-Ayusman_Mishra-0077B5?style=for-the-badge&logo=linkedin">
+</a>
 
-👨‍💻 About Me
+<a href="mailto:ayushmanmishra855@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail">
+</a>
 
-* 🎓 B.Tech student in Computer Science and Information Technology
-* 🏫 Studying at ITER, Siksha ‘O’ Anusandhan University
-* 💻 Building projects using Java, JavaScript, React, Node.js and MongoDB
-* 🤖 Exploring Artificial Intelligence, Machine Learning and RAG systems
-* 🧠 Currently improving my Data Structures, Algorithms and problem-solving skills
-* 🚀 Interested in building products that solve practical business and security problems
-* 🎯 Looking for Software Development and Full-Stack Development opportunities
-
-⸻
-
-🛠️ Technical Skills
-
-Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-Frontend Development
+<img src="https://komarev.com/ghpvc/?username=ayusman7327&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 B.Tech (CSIT) Student at ITER, Siksha 'O' Anusandhan University
+
+💻 Passionate about Full Stack Development and Artificial Intelligence
+
+🤖 Building AI-powered applications for real-world business problems
+
+🌱 Currently learning
+
+- Advanced Java
+- Data Structures & Algorithms
+- Machine Learning
+- RAG Systems
+- System Design
+
+🎯 Goal
+
+Become a Software Engineer building impactful AI products.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-Backend and Database
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
 </p>
 
-Tools and Platforms
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-⸻
+### Tools
 
-🚀 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
+</p>
 
-🧠 BusinessOS AI
+---
 
-AI-Powered Business Management Platform
+# ⭐ Featured Projects
 
-A full-stack business management platform that helps businesses manage customers, inventory, invoices and business operations through one centralized dashboard.
+## 🧠 BusinessOS AI
 
-Key features:
+AI-powered Business Management Platform
 
-* Customer relationship management
-* Inventory and product management
-* Invoice management
-* Secure JWT authentication
-* AI-powered business assistance
-* Business insights and summaries
-* Responsive dashboard interface
+✔ Customer Management
 
-Technologies: React, Node.js, Express.js, MongoDB, JavaScript, JWT, REST API
+✔ Inventory Management
 
-⸻
+✔ Invoice Generation
 
-💰 FinWise AI
+✔ JWT Authentication
 
-AI-Powered Personal Finance and Investment Management Platform
+✔ AI Assistant
 
-FinWise AI is a full-stack financial management platform designed to help users track income, expenses, budgets and investments through a clean, intelligent dashboard.
+✔ Business Analytics
 
-Key features:
+**Tech**
 
-* Income and expense tracking
-* Smart budget management
-* Investment portfolio monitoring
-* Financial category management
-* Interactive charts and analytics
-* AI-powered financial insights
-* Secure user authentication
-* Responsive dashboard interface
+React • Node.js • Express • MongoDB • JWT
 
-Technologies: React, Node.js, Express.js, MongoDB, JavaScript, JWT, REST API, Recharts
+---
 
-⸻
+## 💰 FinWise AI
 
-🛡️ Fraud Shield AI
+AI-powered Personal Finance Platform
 
-AI-Based Fraud SMS and Email Detection System
+✔ Expense Tracking
 
-An intelligent fraud-detection platform designed to analyse messages and emails and identify suspicious or potentially fraudulent content.
+✔ Budget Planning
 
-Planned features:
+✔ Investment Dashboard
 
-* Fraud and phishing message detection
-* Machine-learning-based classification
-* Suspicious URL analysis
-* Explainable fraud-risk score
-* Email and SMS analysis
-* RAG-powered security assistant
+✔ AI Financial Insights
 
-Technologies: Python, Machine Learning, NLP, FastAPI, React, Scikit-learn
+✔ Charts & Analytics
 
-⸻
+✔ Secure Authentication
 
-📊 GitHub Statistics
+**Tech**
+
+React • Node.js • Express • MongoDB • Recharts
+
+---
+
+## 🛡 Fraud Shield AI
+
+AI-powered SMS & Email Fraud Detection System
+
+✔ Fraud Detection
+
+✔ Phishing Detection
+
+✔ URL Analysis
+
+✔ Risk Score
+
+✔ Explainable AI
+
+✔ Machine Learning
+
+**Tech**
+
+Python • FastAPI • Machine Learning • NLP • React
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayusman7327&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ayushmanmishra855@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ayusman7327">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusman7327&hide_border=true&theme=transparent" />
-</div>
-<div align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-</div>
 
-⸻
+### ⭐ Thanks for visiting my profile ⭐
 
-📈 Contribution Graph
+*"Code. Learn. Build. Repeat."*
 
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=github-compact&hide_border=true&area=true" />
-</div>
-
-⸻
-
-🏆 GitHub Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayusman7327&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" />
-</div>
-
-⸻
-
-🐍 Contribution Activity
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ayusman7327/ayusman7327/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</div>
-
-⸻
-
-🤝 Let’s Connect
-
-I am open to internships, entry-level software development roles, collaborations and opportunities to work on meaningful technology projects.
-
-* LinkedIn: Ayusman Mishra
-* GitHub: github.com/ayusman7327
-* Email: ayushmanmishra855@gmail.com
-
-⸻
-
-<div align="center">
-
-Building practical solutions, learning continuously and improving one commit at a time.
-
-<img src="https://komarev.com/ghpvc/?username=ayusman7327&label=Profile%20Views&style=flat-square" />
 </div>
