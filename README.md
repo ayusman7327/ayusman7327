@@ -1,216 +1,176 @@
 <div align="center">
 
-# Hi 👋, I'm Ayusman Mishra
+Hi, I’m Ayusman Mishra 👋
 
-### Full Stack Developer • Java Developer • AI Enthusiast
+Full-Stack Developer | Java Developer | AI & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+Full+Stack+Applications;Creating+AI-Powered+Software+Solutions;Backend+Engineering+%7C+Clean+Architecture;Always+Learning+Something+New"/>
-
-<br>
-
+<p>
+I build scalable full-stack applications and AI-powered solutions focused on solving real-world problems.
+</p>
 <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:ayushmanmishra855@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/ayusman7327">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=ayusman7327&style=for-the-badge&color=2563EB"/>
-
 </div>
 
----
+⸻
 
-# 👨‍💻 About Me
+👨‍💻 About Me
 
-```java
-class AyusmanMishra {
+* 🎓 B.Tech student in Computer Science and Information Technology
+* 🏫 Studying at ITER, Siksha ‘O’ Anusandhan University
+* 💻 Building projects using Java, JavaScript, React, Node.js and MongoDB
+* 🤖 Exploring Artificial Intelligence, Machine Learning and RAG systems
+* 🧠 Currently improving my Data Structures, Algorithms and problem-solving skills
+* 🚀 Interested in building products that solve practical business and security problems
+* 🎯 Looking for Software Development and Full-Stack Development opportunities
 
-    String role = "Full Stack Developer";
+⸻
 
-    String[] interests = {
-        "Backend Engineering",
-        "Artificial Intelligence",
-        "Software Architecture",
-        "Cloud Applications"
-    };
+🛠️ Technical Skills
 
-    String[] currentlyBuilding = {
-        "BusinessOS AI",
-        "FraudShield AI",
-        "FinWise AI"
-    };
+Programming Languages
 
-    String passion =
-        "Building software that solves real-world problems.";
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
 
-}
-```
+Frontend Development
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
 
-### 🚀 What I'm Working On
+Backend and Database
 
-- 🤖 AI-Powered Full Stack Applications
-- 🌐 MERN Stack Development
-- 🛡️ Fraud Detection using Machine Learning
-- ⚙️ Backend API Development
-- 📚 Data Structures & Algorithms (Java)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
----
+Tools and Platforms
 
-### 💡 What Drives Me
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
+</p>
 
-I enjoy building software that combines clean engineering, intuitive user experiences, and practical business value.
+⸻
 
-My focus is on developing production-ready applications that solve real-world problems while continuously improving my software engineering skills.
+🚀 Featured Projects
 
----
-# 🚀 Featured Projects
+🧠 BusinessOS AI
 
-<table>
+AI-Powered Business Management Platform
 
-<tr>
+A full-stack business management platform that helps businesses manage customers, inventory, invoices and business operations through one centralized dashboard.
 
-<td width="50%">
+Key features:
 
-## 🤖 BusinessOS AI
+* Customer relationship management
+* Inventory and product management
+* Invoice management
+* Secure JWT authentication
+* AI-powered business assistance
+* Business insights and summaries
+* Responsive dashboard interface
 
-### AI-Powered Business Management Platform
+Technologies: React, Node.js, Express.js, MongoDB, JavaScript, JWT, REST API
 
-A modern full-stack platform that helps businesses streamline customer management, inventory, invoicing, and analytics through intelligent automation.
+⸻
 
-### ✨ Features
+💰 FinWise AI
 
-- 🤖 AI Business Assistant
-- 👥 Customer Management
-- 📦 Inventory Management
-- 🧾 Invoice Generation
-- 📊 Business Analytics Dashboard
-- 🔐 JWT Authentication
-- 📱 Responsive Admin Dashboard
+AI-Powered Personal Finance and Investment Management Platform
 
-### ⚙️ Tech Stack
+FinWise AI is a full-stack financial management platform designed to help users track income, expenses, budgets and investments through a clean, intelligent dashboard.
 
-React • Node.js • Express.js • MongoDB • JWT
+Key features:
 
-<br>
+* Income and expense tracking
+* Smart budget management
+* Investment portfolio monitoring
+* Financial category management
+* Interactive charts and analytics
+* AI-powered financial insights
+* Secure user authentication
+* Responsive dashboard interface
 
-</td>
+Technologies: React, Node.js, Express.js, MongoDB, JavaScript, JWT, REST API, Recharts
 
-<td width="50%">
+⸻
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusman7327&repo=BusinessOS-AI&theme=tokyonight"/>
+🛡️ Fraud Shield AI
 
-</td>
+AI-Based Fraud SMS and Email Detection System
 
-</tr>
+An intelligent fraud-detection platform designed to analyse messages and emails and identify suspicious or potentially fraudulent content.
 
-</table>
+Planned features:
 
----
+* Fraud and phishing message detection
+* Machine-learning-based classification
+* Suspicious URL analysis
+* Explainable fraud-risk score
+* Email and SMS analysis
+* RAG-powered security assistant
 
-<table>
+Technologies: Python, Machine Learning, NLP, FastAPI, React, Scikit-learn
 
-<tr>
+⸻
 
-<td width="50%">
+📊 GitHub Statistics
 
-## 🛡️ FraudShield AI
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusman7327&hide_border=true&theme=transparent" />
+</div>
+<div align="center">
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+</div>
 
-### AI-Powered Fraud Detection System
+⸻
 
-A Machine Learning powered platform capable of detecting phishing emails, fraudulent SMS messages, spam, and suspicious content using NLP and predictive models.
+📈 Contribution Graph
 
-### ✨ Features
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=github-compact&hide_border=true&area=true" />
+</div>
 
-- 🧠 Machine Learning Detection
-- 📧 Email Scam Detection
-- 📱 SMS Fraud Detection
-- 🤖 NLP Text Classification
-- 📊 Fraud Risk Score
-- 🚨 Real-Time Threat Alerts
-- 📈 Analytics Dashboard
+⸻
 
-### ⚙️ Tech Stack
+🏆 GitHub Achievements
 
-Python • Machine Learning • NLP • React • Node.js • MongoDB
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ayusman7327&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" />
+</div>
 
-<br>
+⸻
 
-</td>
+🐍 Contribution Activity
 
-<td width="50%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/ayusman7327/ayusman7327/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusman7327&repo=FraudShield-AI&theme=tokyonight"/>
+⸻
 
-</td>
+🤝 Let’s Connect
 
-</tr>
+I am open to internships, entry-level software development roles, collaborations and opportunities to work on meaningful technology projects.
 
-</table>
+* LinkedIn: Ayusman Mishra
+* GitHub: github.com/ayusman7327
+* Email: ayushmanmishra855@gmail.com
 
----
+⸻
 
-<table>
+<div align="center">
 
-<tr>
+Building practical solutions, learning continuously and improving one commit at a time.
 
-<td width="50%">
-
-## 💰 FinWise AI
-
-### AI-Powered Personal Finance Platform
-
-A smart finance application that helps users monitor expenses, create budgets, manage investments, and receive AI-driven financial insights.
-
-### ✨ Features
-
-- 💸 Expense Tracking
-- 📈 Investment Portfolio
-- 💰 Budget Planner
-- 🤖 AI Financial Insights
-- 📊 Interactive Dashboard
-- 🔐 Secure Authentication
-- 📱 Responsive Design
-
-### ⚙️ Tech Stack
-
-React • Node.js • Express.js • MongoDB • AI Integration
-
-<br>
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayusman7327&repo=FinWise-AI&theme=tokyonight"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 Engineering Principles
-
-✔ Write clean and maintainable code
-
-✔ Build scalable backend systems
-
-✔ Focus on real-world problem solving
-
-✔ Create responsive and intuitive user experiences
-
-✔ Continuously learn and improve
-
-✔ Design software with performance and usability in mind
-
----
+<img src="https://komarev.com/ghpvc/?username=ayusman7327&label=Profile%20Views&style=flat-square" />
+</div>
