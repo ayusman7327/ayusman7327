@@ -1,21 +1,23 @@
 <div align="center">
 
 <img
+  src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0D1117,50:161B22,100:30363D&text=Ayusman%20Mishra&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=65&descSize=18"
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:171321,100:6E40C9&text=Hi,%20I'm%20Ayusman%20Mishra&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Building%20intelligent%20full-stack%20products&descAlignY=59&descSize=17&animation=fadeIn"
   alt="Ayusman Mishra"
 />
 
+<br/>
+
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Digital+Products"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=760&lines=Building+Modern+Full+Stack+Applications;Creating+AI-Powered+Products;Solving+Real-World+Problems+With+Technology"
   alt="Typing animation"
 />
 
 <br/>
 
 <p>
-I build modern full-stack applications and intelligent products focused on
-business automation, financial technology and digital security.
+I build practical full-stack applications and intelligent systems focused on
+business automation, personal finance and digital security.
 </p>
 
 <p>
@@ -45,39 +47,22 @@ business automation, financial technology and digital security.
 
 ---
 
-## 👨‍💻 Developer Profile
+## About Me
 
-```javascript
-const ayusman = {
-  role: "Full Stack Developer",
+I am focused on building modern web applications and AI-powered products that solve real-world problems.
 
-  languages: [
-    "Java",
-    "Python",
-    "JavaScript"
-  ],
+My main areas of interest are:
 
-  expertise: [
-    "React Applications",
-    "REST API Development",
-    "Database-Driven Systems",
-    "AI-Powered Products"
-  ],
-
-  currentFocus: [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "RAG Systems",
-    "Scalable Full-Stack Applications"
-  ],
-
-  mission: "Transform real-world problems into useful digital products"
-};
-```
+- Full-stack application development
+- Artificial intelligence and machine learning
+- Backend systems and REST APIs
+- Business automation
+- Financial technology
+- Fraud and phishing detection
 
 ---
 
-## 🛠️ Technology Stack
+## Tech Stack
 
 <div align="center">
 
@@ -85,7 +70,7 @@ const ayusman = {
 
 <img
   src="https://skillicons.dev/icons?i=java,python,javascript,html,css"
-  alt="Languages"
+  alt="Programming languages"
 />
 
 <br/><br/>
@@ -94,7 +79,7 @@ const ayusman = {
 
 <img
   src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"
-  alt="Frontend"
+  alt="Frontend technologies"
 />
 
 <br/><br/>
@@ -103,50 +88,50 @@ const ayusman = {
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"
-  alt="Backend and Database"
+  alt="Backend technologies"
 />
 
 <br/><br/>
 
-### Development Tools
+### Tools
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm"
-  alt="Tools"
+  alt="Development tools"
 />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h2 align="center">🧠 BusinessOS AI</h2>
+<h3 align="center">BusinessOS AI</h3>
 
 <p align="center">
 <strong>AI-Powered Business Management Platform</strong>
 </p>
 
-A full-stack platform that helps businesses manage customers, inventory,
-invoices and daily operations through one intelligent dashboard.
+A full-stack platform designed to help businesses manage operations from one intelligent dashboard.
 
-### Key Features
+### Features
 
 - AI business assistant
-- Customer relationship management
-- Product and inventory management
+- Customer management
+- Inventory management
+- Product management
 - Invoice creation and tracking
-- Business analytics dashboard
-- Sales and operational insights
+- Business analytics
+- Sales insights
 - Secure JWT authentication
-- Responsive user interface
+- Responsive dashboard
 
-### Technology Stack
+### Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -160,27 +145,27 @@ invoices and daily operations through one intelligent dashboard.
 
 <td width="50%" valign="top">
 
-<h2 align="center">💰 FinWise AI</h2>
+<h3 align="center">FinWise AI</h3>
 
 <p align="center">
-<strong>AI-Powered Finance Management Platform</strong>
+<strong>AI-Powered Personal Finance Platform</strong>
 </p>
 
-An intelligent finance application that helps users track expenses, manage
-budgets, monitor investments and understand their financial activity.
+A personal finance application that helps users manage expenses, budgets and investments through an intelligent dashboard.
 
-### Key Features
+### Features
 
-- Income and expense tracking
-- Smart budget management
-- Financial category management
-- Investment portfolio dashboard
-- Interactive financial charts
-- AI-powered financial insights
+- Income tracking
+- Expense tracking
+- Budget management
+- Financial categories
+- Investment dashboard
+- Interactive charts
+- AI financial insights
 - Secure authentication
-- Responsive dashboard
+- Responsive interface
 
-### Technology Stack
+### Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -198,16 +183,15 @@ budgets, monitor investments and understand their financial activity.
 
 <td width="50%" valign="top">
 
-<h2 align="center">🛡️ Fraud Shield AI</h2>
+<h3 align="center">Fraud Shield AI</h3>
 
 <p align="center">
-<strong>AI-Based Fraud Detection Platform</strong>
+<strong>AI Fraud Detection Platform</strong>
 </p>
 
-An intelligent security platform designed to detect fraudulent SMS messages,
-phishing emails and potentially malicious URLs using machine learning and NLP.
+An intelligent security platform designed to detect fraudulent SMS messages, phishing emails and suspicious URLs.
 
-### Key Features
+### Features
 
 - SMS fraud detection
 - Email phishing detection
@@ -218,7 +202,7 @@ phishing emails and potentially malicious URLs using machine learning and NLP.
 - Explainable prediction results
 - AI security assistant
 
-### Technology Stack
+### Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -232,23 +216,22 @@ phishing emails and potentially malicious URLs using machine learning and NLP.
 
 <td width="50%" valign="top">
 
-<h2 align="center">⚡ Development Focus</h2>
+<h3 align="center">Current Focus</h3>
 
 <p align="center">
-<strong>Building Useful and Scalable Products</strong>
+<strong>Building Better Software Products</strong>
 </p>
 
-I focus on applications that combine reliable backend systems, polished
-interfaces and practical intelligent features.
+I am continuously improving my projects and exploring technologies that help me build more useful and scalable applications.
 
-### Currently Exploring
+### Learning and Building
 
+- Data structures and algorithms
 - Retrieval-Augmented Generation
 - AI workflow automation
 - Machine-learning applications
 - Scalable REST APIs
 - Secure authentication systems
-- Data-driven dashboards
 - Cloud deployment
 - Production-ready architecture
 
@@ -257,7 +240,7 @@ interfaces and practical intelligent features.
 <div align="center">
 
 ```text
-Understand → Design → Build → Test → Deploy
+Plan → Build → Test → Improve → Deploy
 ```
 
 </div>
@@ -269,57 +252,86 @@ Understand → Design → Build → Test → Deploy
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
 <img
-  src="./profile/stats.svg"
-  height="180"
-  alt="Ayusman's GitHub statistics"
-/>
-
-<img
-  src="./profile/top-langs.svg"
-  height="180"
-  alt="Ayusman's most used languages"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&bg_color=0D1117&color=C9D1D9&line=A371F7&point=FFFFFF&area_color=6E40C9&area=true&hide_border=true&custom_title=Ayusman%20Mishra's%20Contribution%20Activity"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayusman7327&theme=github_dark"
   width="100%"
-  alt="Ayusman's contribution activity"
+  alt="GitHub profile details"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayusman7327&theme=github_dark"
+  width="48%"
+  alt="Repositories per language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayusman7327&theme=github_dark"
+  width="48%"
+  alt="Most committed languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayusman7327&theme=github_dark"
+  width="48%"
+  alt="GitHub statistics"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayusman7327&theme=github_dark&utcOffset=5.5"
+  width="48%"
+  alt="Productive time"
 />
 
 </div>
 
 ---
 
-## 💡 Developer Mindset
+## Contribution Activity
 
 <div align="center">
 
-> ### I build projects to understand problems, engineer solutions and turn ideas into products people can actually use.
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&bg_color=0D1117&color=C9D1D9&line=8B949E&point=FFFFFF&area_color=30363D&area=true&hide_border=true&custom_title=Ayusman%20Mishra's%20Contribution%20Activity"
+  width="100%"
+  alt="Contribution graph"
+/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## What I Build
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| Full-Stack Development | Responsive applications using React and Node.js |
+| Backend Development | REST APIs, authentication and database systems |
+| Artificial Intelligence | Intelligent assistants and automation |
+| Machine Learning | Prediction and classification applications |
+| Business Technology | CRM, inventory, invoicing and analytics |
+| Financial Technology | Budgeting, investments and financial insights |
+| Digital Security | Fraud, phishing and suspicious-content detection |
+
+</div>
+
+---
+
+## Connect With Me
 
 <div align="center">
 
 <p>
-Open to software-development opportunities, technical collaborations and
-conversations about full-stack development and artificial intelligence.
+Open to software development opportunities, collaborations and conversations about full-stack development and artificial intelligence.
 </p>
 
 <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
@@ -332,7 +344,7 @@ conversations about full-stack development and artificial intelligence.
 <a href="mailto:ayushmanmishra855@gmail.com">
 <img
   src="https://img.shields.io/badge/Gmail-ayushmanmishra855-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Gmail"
+  alt="Email"
 />
 </a>
 
@@ -345,11 +357,11 @@ conversations about full-stack development and artificial intelligence.
 
 <br/><br/>
 
-### Building intelligent products. Solving real problems. Improving every day.
+### Turning ideas into useful software.
 
 <img
+  src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:30363D,50:161B22,100:0D1117&section=footer"
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6E40C9,45:171321,100:0D1117&section=footer"
   alt="Footer"
 />
 
