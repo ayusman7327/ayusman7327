@@ -1,10 +1,10 @@
+<div align="center">
+
 # 👋 Hey, I'm Ayusman Mishra
 
 ### 💻 Full Stack Developer | Java Developer | AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Real+World+Projects;Building+AI-Powered+Full+Stack+Applications;Exploring+Machine+Learning+%26+RAG+Systems;Strengthening+Java+%26+DSA+Skills" />
-
-
 
 </div>
 
