@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ayusman+Mishra;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Building+Real+World+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ayusman+Mishra"/>
+
+<h3>
+Full Stack Developer • AI Enthusiast • Java Developer
+</h3>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=ayusman7327&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/ayusman7327?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/ayusman7327?style=for-the-badge"/>
+Building scalable web applications and AI-powered solutions to solve real-world problems.
 </p>
 
 <a href="https://github.com/ayusman7327">
@@ -39,8 +41,8 @@ public class Ayusman {
 
     String[] frontend = {
         "React",
-        "Vite",
-        "Tailwind CSS"
+        "Tailwind CSS",
+        "Vite"
     };
 
     String[] backend = {
@@ -49,11 +51,11 @@ public class Ayusman {
         "MongoDB"
     };
 
-    String interest =
+    String passion =
         "Artificial Intelligence & Machine Learning";
 
-    String currentGoal =
-        "Building scalable AI-powered products.";
+    String mission =
+        "Building software that solves real-world problems.";
 }
 ```
 
@@ -64,33 +66,25 @@ public class Ayusman {
 ### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-
 </p>
 
 ### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
-
 </p>
 
 ### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-
 </p>
 
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm"/>
-
 </p>
 
 ---
@@ -99,67 +93,45 @@ public class Ayusman {
 
 ## 🧠 BusinessOS AI
 
-### AI Powered Business Management Platform
+AI-powered Business Management Platform
 
-A modern SaaS platform helping businesses manage everything from one dashboard.
+- AI Business Assistant
+- Customer Management
+- Inventory Management
+- Invoice System
+- Analytics Dashboard
+- JWT Authentication
 
-### Features
-
-- 🤖 AI Business Assistant
-- 📦 Inventory Management
-- 👥 Customer Management
-- 📊 Business Analytics
-- 💰 Invoice Generator
-- 🔐 JWT Authentication
-- 📈 Sales Dashboard
-- 📄 Reports
-
-### Tech
-
-React • Node.js • Express • MongoDB • JWT
+**Tech:** React • Node.js • Express • MongoDB
 
 ---
 
 ## 💰 FinWise AI
 
-### AI Powered Personal Finance Platform
+AI-powered Personal Finance Platform
 
-An intelligent finance application for tracking expenses, budgets and investments.
+- Expense Tracking
+- Budget Management
+- Investment Dashboard
+- Financial Analytics
+- AI Insights
 
-### Features
-
-- 💵 Expense Tracker
-- 📊 Financial Analytics
-- 💳 Budget Planning
-- 📈 Investment Dashboard
-- 🤖 AI Financial Insights
-- 📱 Responsive Design
-
-### Tech
-
-React • Express • MongoDB • Recharts
+**Tech:** React • Express • MongoDB • Recharts
 
 ---
 
-## 🛡️ Fraud Shield AI
+## 🛡 Fraud Shield AI
 
-### AI Fraud Detection System
+AI-based SMS & Email Fraud Detection
 
-Detect fraudulent SMS and emails using Artificial Intelligence.
+- Fraud Detection
+- Phishing Detection
+- URL Scanner
+- NLP
+- Machine Learning
+- AI Security Assistant
 
-### Features
-
-- 📩 SMS Detection
-- 📧 Email Detection
-- 🔍 URL Scanner
-- 🤖 Machine Learning
-- 🧠 NLP
-- 📊 Fraud Score
-- 🚨 Phishing Detection
-
-### Tech
-
-Python • FastAPI • Machine Learning • NLP • React
+**Tech:** Python • FastAPI • Machine Learning • React
 
 ---
 
@@ -167,19 +139,9 @@ Python • FastAPI • Machine Learning • NLP • React
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ayusman7327&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -190,36 +152,6 @@ Python • FastAPI • Machine Learning • NLP • React
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayusman7327&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
-# ⚡ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ayusman7327/ayusman7327/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -247,10 +179,8 @@ Python • FastAPI • Machine Learning • NLP • React
 
 <div align="center">
 
-## ⭐ Thanks for Visiting ⭐
+### Thanks for visiting my profile!
 
-### Building AI products • Solving Real Problems • Learning Every Day 🚀
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+**Building AI Products • Learning Every Day • Open to Opportunities 🚀**
 
 </div>
