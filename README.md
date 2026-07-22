@@ -1,103 +1,120 @@
 <div align="center">
 
-# 👋 Hi, I'm Ayusman Mishra
-
-### Full Stack Developer • Java Developer • AI & Machine Learning Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ayusman+Mishra;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Building+Real+World+Products"/>
 
 <p>
-Building scalable web applications and AI-powered products that solve real-world problems.
+<img src="https://komarev.com/ghpvc/?username=ayusman7327&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/ayusman7327?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/ayusman7327?style=for-the-badge"/>
 </p>
 
-<p>
 <a href="https://github.com/ayusman7327">
-<img src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-<img src="https://img.shields.io/badge/LinkedIn-Ayusman_Mishra-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:ayushmanmishra855@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=ayusman7327&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-🎓 B.Tech (CSIT) Student at ITER, Siksha 'O' Anusandhan University
+```java
+public class Ayusman {
 
-💻 Passionate about Full Stack Development and Artificial Intelligence
+    String role = "Full Stack Developer";
 
-🤖 Building AI-powered applications for real-world business problems
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript"
+    };
 
-🌱 Currently learning
+    String[] frontend = {
+        "React",
+        "Vite",
+        "Tailwind CSS"
+    };
 
-- Advanced Java
-- Data Structures & Algorithms
-- Machine Learning
-- RAG Systems
-- System Design
+    String[] backend = {
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    };
 
-🎯 Goal
+    String interest =
+        "Artificial Intelligence & Machine Learning";
 
-Become a Software Engineer building impactful AI products.
+    String currentGoal =
+        "Building scalable AI-powered products.";
+}
+```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
+
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm"/>
+
 </p>
 
 ---
 
-# ⭐ Featured Projects
+# 🌟 Featured Projects
 
 ## 🧠 BusinessOS AI
 
-AI-powered Business Management Platform
+### AI Powered Business Management Platform
 
-✔ Customer Management
+A modern SaaS platform helping businesses manage everything from one dashboard.
 
-✔ Inventory Management
+### Features
 
-✔ Invoice Generation
+- 🤖 AI Business Assistant
+- 📦 Inventory Management
+- 👥 Customer Management
+- 📊 Business Analytics
+- 💰 Invoice Generator
+- 🔐 JWT Authentication
+- 📈 Sales Dashboard
+- 📄 Reports
 
-✔ JWT Authentication
-
-✔ AI Assistant
-
-✔ Business Analytics
-
-**Tech**
+### Tech
 
 React • Node.js • Express • MongoDB • JWT
 
@@ -105,65 +122,74 @@ React • Node.js • Express • MongoDB • JWT
 
 ## 💰 FinWise AI
 
-AI-powered Personal Finance Platform
+### AI Powered Personal Finance Platform
 
-✔ Expense Tracking
+An intelligent finance application for tracking expenses, budgets and investments.
 
-✔ Budget Planning
+### Features
 
-✔ Investment Dashboard
+- 💵 Expense Tracker
+- 📊 Financial Analytics
+- 💳 Budget Planning
+- 📈 Investment Dashboard
+- 🤖 AI Financial Insights
+- 📱 Responsive Design
 
-✔ AI Financial Insights
+### Tech
 
-✔ Charts & Analytics
-
-✔ Secure Authentication
-
-**Tech**
-
-React • Node.js • Express • MongoDB • Recharts
+React • Express • MongoDB • Recharts
 
 ---
 
-## 🛡 Fraud Shield AI
+## 🛡️ Fraud Shield AI
 
-AI-powered SMS & Email Fraud Detection System
+### AI Fraud Detection System
 
-✔ Fraud Detection
+Detect fraudulent SMS and emails using Artificial Intelligence.
 
-✔ Phishing Detection
+### Features
 
-✔ URL Analysis
+- 📩 SMS Detection
+- 📧 Email Detection
+- 🔍 URL Scanner
+- 🤖 Machine Learning
+- 🧠 NLP
+- 📊 Fraud Score
+- 🚨 Phishing Detection
 
-✔ Risk Score
-
-✔ Explainable AI
-
-✔ Machine Learning
-
-**Tech**
+### Tech
 
 Python • FastAPI • Machine Learning • NLP • React
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ayusman7327&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -173,7 +199,27 @@ Python • FastAPI • Machine Learning • NLP • React
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayusman7327&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayusman7327&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# ⚡ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ayusman7327/ayusman7327/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -201,8 +247,10 @@ Python • FastAPI • Machine Learning • NLP • React
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+## ⭐ Thanks for Visiting ⭐
 
-*"Code. Learn. Build. Repeat."*
+### Building AI products • Solving Real Problems • Learning Every Day 🚀
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </div>
