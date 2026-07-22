@@ -2,43 +2,43 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:171321,100:6E40C9&text=Hi,%20I'm%20Ayusman%20Mishra&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20building%20intelligent%20digital%20products&descAlignY=59&descSize=17&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,45:171321,100:6E40C9&text=Hi,%20I'm%20Ayusman%20Mishra&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Building%20intelligent%20full-stack%20products&descAlignY=59&descSize=17&animation=fadeIn"
   alt="Ayusman Mishra"
 />
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+AI+Products"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A371F7&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Digital+Products"
   alt="Typing animation"
 />
 
 <br/>
 
 <p>
-  I build polished full-stack applications and intelligent products focused on
-  business automation, financial technology and digital security.
+I build modern full-stack applications and intelligent products focused on
+business automation, financial technology and digital security.
 </p>
 
 <p>
-  <a href="https://github.com/ayusman7327">
-    <img
-      src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://github.com/ayusman7327">
+<img
+  src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
+</a>
 
-  <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
+<img
+  src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
+</a>
 
-  <a href="mailto:ayushmanmishra855@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
+<a href="mailto:ayushmanmishra855@gmail.com">
+<img
+  src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Email"
+/>
+</a>
 </p>
 
 </div>
@@ -51,17 +51,17 @@
 const ayusman = {
   role: "Full Stack Developer",
 
+  languages: [
+    "Java",
+    "Python",
+    "JavaScript"
+  ],
+
   expertise: [
     "React Applications",
     "REST API Development",
     "Database-Driven Systems",
     "AI-Powered Products"
-  ],
-
-  languages: [
-    "Java",
-    "Python",
-    "JavaScript"
   ],
 
   currentFocus: [
@@ -94,7 +94,7 @@ const ayusman = {
 
 <img
   src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"
-  alt="Frontend technologies"
+  alt="Frontend"
 />
 
 <br/><br/>
@@ -103,7 +103,7 @@ const ayusman = {
 
 <img
   src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"
-  alt="Backend technologies"
+  alt="Backend and Database"
 />
 
 <br/><br/>
@@ -112,7 +112,7 @@ const ayusman = {
 
 <img
   src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm"
-  alt="Development tools"
+  alt="Tools"
 />
 
 </div>
@@ -132,7 +132,8 @@ const ayusman = {
 <strong>AI-Powered Business Management Platform</strong>
 </p>
 
-A full-stack platform that helps businesses manage customers, inventory, invoices and everyday operations through one intelligent dashboard.
+A full-stack platform that helps businesses manage customers, inventory,
+invoices and daily operations through one intelligent dashboard.
 
 ### Key Features
 
@@ -165,7 +166,8 @@ A full-stack platform that helps businesses manage customers, inventory, invoice
 <strong>AI-Powered Finance Management Platform</strong>
 </p>
 
-An intelligent personal finance application that helps users track expenses, manage budgets, monitor investments and understand their financial activity.
+An intelligent finance application that helps users track expenses, manage
+budgets, monitor investments and understand their financial activity.
 
 ### Key Features
 
@@ -202,7 +204,8 @@ An intelligent personal finance application that helps users track expenses, man
 <strong>AI-Based Fraud Detection Platform</strong>
 </p>
 
-An intelligent security platform designed to detect fraudulent SMS messages, phishing emails and potentially malicious URLs using machine learning and NLP.
+An intelligent security platform designed to detect fraudulent SMS messages,
+phishing emails and potentially malicious URLs using machine learning and NLP.
 
 ### Key Features
 
@@ -235,7 +238,8 @@ An intelligent security platform designed to detect fraudulent SMS messages, phi
 <strong>Building Useful and Scalable Products</strong>
 </p>
 
-I focus on developing applications that combine reliable backend systems, polished interfaces and intelligent features.
+I focus on applications that combine reliable backend systems, polished
+interfaces and practical intelligent features.
 
 ### Currently Exploring
 
@@ -265,47 +269,20 @@ Understand → Design → Build → Test → Deploy
 
 ---
 
-## 💼 What I Work With
-
-<div align="center">
-
-| Area | Focus |
-|---|---|
-| Full-Stack Development | Responsive applications with React and Node.js |
-| Backend Engineering | REST APIs, authentication and database systems |
-| Artificial Intelligence | Assistants, automation and intelligent workflows |
-| Machine Learning | Fraud detection and classification systems |
-| Business Technology | CRM, invoices, inventory and analytics |
-| Financial Technology | Budgeting, investments and financial insights |
-
-</div>
----
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=transparent&hide_border=true&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9&include_all_commits=true"
+  src="./profile/stats.svg"
+  height="180"
   alt="Ayusman's GitHub statistics"
 />
 
 <img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=transparent&hide_border=true&title_color=A371F7&text_color=C9D1D9&langs_count=8"
+  src="./profile/top-langs.svg"
+  height="180"
   alt="Ayusman's most used languages"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  width="60%"
-  src="https://streak-stats.demolab.com?user=ayusman7327&theme=transparent&hide_border=true&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=C9D1D9&dates=8B949E"
-  alt="Ayusman's GitHub streak"
 />
 
 </div>
@@ -319,7 +296,7 @@ Understand → Design → Build → Test → Deploy
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=ayusman7327&bg_color=0D1117&color=C9D1D9&line=A371F7&point=FFFFFF&area_color=6E40C9&area=true&hide_border=true&custom_title=Ayusman%20Mishra's%20Contribution%20Activity"
   width="100%"
-  alt="Ayusman's contribution activity graph"
+  alt="Ayusman's contribution activity"
 />
 
 </div>
@@ -341,28 +318,29 @@ Understand → Design → Build → Test → Deploy
 <div align="center">
 
 <p>
-Open to software-development opportunities, technical collaborations and conversations about full-stack development and artificial intelligence.
+Open to software-development opportunities, technical collaborations and
+conversations about full-stack development and artificial intelligence.
 </p>
 
 <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Ayusman_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img
+  src="https://img.shields.io/badge/LinkedIn-Ayusman_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="mailto:ayushmanmishra855@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-ayushmanmishra855-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
-  />
+<img
+  src="https://img.shields.io/badge/Gmail-ayushmanmishra855-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Gmail"
+/>
 </a>
 
 <a href="https://github.com/ayusman7327">
-  <img
-    src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img
+  src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <br/><br/>
