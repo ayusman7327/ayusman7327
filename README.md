@@ -1,5 +1,3 @@
-<img width="1470" height="956" alt="Screenshot 2026-07-22 at 3 45 24 PM" src="https://github.com/user-attachments/assets/e75fa7f1-d381-48ca-a16e-6c55e6c2f454" /><div align="center">
-
 # 👋 Hey, I'm Ayusman Mishra
 
 ### 💻 Full Stack Developer | Java Developer | AI Enthusiast
