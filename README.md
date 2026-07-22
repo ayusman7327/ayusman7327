@@ -279,6 +279,36 @@ Understand → Design → Build → Test → Deploy
 | Financial Technology | Budgeting, investments and financial insights |
 
 </div>
+---
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=transparent&hide_border=true&title_color=A371F7&icon_color=A371F7&text_color=C9D1D9&include_all_commits=true"
+  alt="Ayusman's GitHub statistics"
+/>
+
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=transparent&hide_border=true&title_color=A371F7&text_color=C9D1D9&langs_count=8"
+  alt="Ayusman's most used languages"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  width="60%"
+  src="https://streak-stats.demolab.com?user=ayusman7327&theme=transparent&hide_border=true&ring=A371F7&fire=A371F7&currStreakLabel=A371F7&sideLabels=C9D1D9&dates=8B949E"
+  alt="Ayusman's GitHub streak"
+/>
+
+</div>
 
 ---
 
