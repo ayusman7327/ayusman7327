@@ -1,10 +1,12 @@
-<div align="center">
+<img width="1470" height="956" alt="Screenshot 2026-07-22 at 3 45 24 PM" src="https://github.com/user-attachments/assets/e75fa7f1-d381-48ca-a16e-6c55e6c2f454" /><div align="center">
 
 # 👋 Hey, I'm Ayusman Mishra
 
 ### 💻 Full Stack Developer | Java Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;Learning+DSA+in+Java;AI+%2B+Full+Stack+Developer;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Real+World+Projects;Building+AI-Powered+Full+Stack+Applications;Exploring+Machine+Learning+%26+RAG+Systems;Strengthening+Java+%26+DSA+Skills" />
+
+
 
 </div>
 
