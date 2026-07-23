@@ -6,7 +6,7 @@
 
 
 
-### 💻 Full Stack Developer | Java Developer | AI Enthusiast
+### 💻 Full Stack Developer | AI & Machine Learning Enthusiast | Problem Solver
 
 
 
