@@ -24,19 +24,14 @@
 
 # 🚀 About Me
 
-
-
 🎓 B.Tech CSIT Student
-
-
 
 💡 Passionate about solving real-world problems through technology.
 
 
 
+
 🌱 Currently Building
-
-
 
 - AI-Powered Full Stack Applications
 
@@ -47,10 +42,7 @@
 - Clean UI/UX Experiences
 
 
-
 🎯 Focus
-
-
 
 - Building production-ready applications
 
