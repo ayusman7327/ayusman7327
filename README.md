@@ -117,13 +117,13 @@
 
 
 ---
-# 📈 GitHub Stats
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+[![Repositories](https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayusman7327?tab=repositories)
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight&hide_border=true" />
+[![GitHub Profile](https://img.shields.io/badge/View_GitHub_Profile-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayusman7327)
 
 </div>
 
