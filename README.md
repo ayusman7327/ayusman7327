@@ -118,18 +118,11 @@
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayusman7327&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=ayusman7327&theme=tokyonight&hide_border=true" />
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusman7327&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=ayusman7327...)
+![](https://github-readme-streak-stats.herokuapp.com/...)
+![](https://github-readme-stats.vercel.app/api/top-langs/...)
 ---
 
 
