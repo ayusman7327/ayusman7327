@@ -5,28 +5,37 @@
 ### Full Stack Developer | AI & Machine Learning Enthusiast
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Real+World+Projects;Building+AI-Powered+Full+Stack+Applications;Exploring+Machine+Learning+%26+RAG+Systems;Strengthening+Java+%26+DSA+Skills"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Real+World+Projects;Building+AI-Powered+Full+Stack+Applications;Exploring+Machine+Learning+%26+RAG+Systems;Building+Multi-Agent+AI+Applications;Strengthening+Java+%26+DSA+Skills"
   alt="Typing animation"
 />
 
 <br/>
 
 <p>
-Building intelligent full-stack applications that combine modern interfaces,
-scalable backend systems and practical AI capabilities.
+I build modern full-stack applications and intelligent AI systems focused on
+business automation, research, finance and digital security.
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Ayusman_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="mailto:mishraayushman516@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 
   <a href="https://github.com/ayusman7327">
-    <img src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
@@ -38,16 +47,14 @@ scalable backend systems and practical AI capabilities.
 
 ### Hi, I'm Ayusman — Full Stack and AI Application Developer
 
-I enjoy building complete software products that combine responsive frontend interfaces, secure backend APIs, databases and intelligent AI features.
-
-My current work focuses on:
+I enjoy building complete software products that combine modern interfaces, scalable backend systems, databases and intelligent AI features.
 
 - Building AI-powered full-stack applications
-- Developing REST APIs using Node.js and FastAPI
+- Developing REST APIs with Node.js and FastAPI
 - Working with LLMs, RAG systems and multi-agent workflows
-- Creating business, finance and security-focused software
-- Strengthening Java, Python and Data Structures & Algorithms
-- Designing clean and maintainable application architecture
+- Creating business, finance, research and security-focused products
+- Strengthening Python, Java and Data Structures & Algorithms
+- Learning clean architecture and production-ready development
 
 ---
 
@@ -59,6 +66,7 @@ My current work focuses on:
 ![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-238636?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF8C00?style=flat-square)
 ![RAG Systems](https://img.shields.io/badge/RAG_Systems-8250DF?style=flat-square)
+![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent_AI-5A45FF?style=flat-square)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-1F6FEB?style=flat-square)
 
 ---
@@ -90,7 +98,7 @@ My current work focuses on:
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 🤖 AI and Machine Learning
+### 🤖 AI, Machine Learning and RAG
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-5A45FF?style=flat-square)
@@ -99,7 +107,7 @@ My current work focuses on:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-6F42C1?style=flat-square)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -122,12 +130,13 @@ My current work focuses on:
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Currently Building
 
 ![Forgent AI](https://img.shields.io/badge/Forgent_AI-Multi--Agent_Software_Engineering-6F42C1?style=flat-square)
 ![Cortex Research AI](https://img.shields.io/badge/Cortex_Research_AI-RAG_Assistant-0969DA?style=flat-square)
 ![SentinelX AI](https://img.shields.io/badge/SentinelX_AI-Intelligent_Security-238636?style=flat-square)
 ![BusinessOS AI](https://img.shields.io/badge/BusinessOS_AI-Business_Automation-FF8C00?style=flat-square)
+![FinWise AI](https://img.shields.io/badge/FinWise_AI-Financial_Technology-8250DF?style=flat-square)
 ![DSA](https://img.shields.io/badge/DSA-Python_and_Java-D73A49?style=flat-square)
 
 ---
@@ -136,18 +145,28 @@ My current work focuses on:
 
 ### 🤖 Forgent AI — Autonomous Multi-Agent Software Engineering Platform
 
-> An AI-powered development platform designed to convert natural-language software requirements into structured engineering workflows.
+> An AI-powered development platform that converts natural-language software requirements into structured engineering workflows.
 
-- Multi-agent architecture for requirements analysis, planning, coding and testing
+- Multi-agent architecture for requirement analysis, planning and development
 - LangGraph-based agent orchestration
+- Specialized frontend, backend, testing and documentation agents
 - FastAPI backend with modular REST APIs
 - PostgreSQL-based data management
-- Architecture designed for maintainability and scalability
-- Planned Docker-based deployment and real-time workflow updates
+- Docker-ready architecture
+- Designed for scalable software-generation workflows
 
 **Tech Stack**
 
 `React.js` `Python` `FastAPI` `LangGraph` `PostgreSQL` `Docker`
+
+<p>
+  <a href="https://github.com/ayusman7327?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Forgent AI"
+    />
+  </a>
+</p>
 
 ---
 
@@ -155,53 +174,82 @@ My current work focuses on:
 
 > A Retrieval-Augmented Generation platform that answers questions using information retrieved from uploaded documents.
 
-- Document upload and indexing
-- Semantic search using embeddings
+- Document upload and text processing
+- Document indexing and knowledge-base creation
+- Semantic retrieval using embeddings
 - ChromaDB vector database
-- Context-aware responses using Google Gemini
+- Google Gemini-powered responses
 - FastAPI endpoints for upload, retrieval and question answering
-- Modular RAG pipeline for knowledge-based research
+- Modular RAG pipeline
 
 **Tech Stack**
 
 `Python` `FastAPI` `LangChain` `ChromaDB` `Google Gemini` `RAG`
 
+<p>
+  <a href="https://github.com/ayusman7327?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Cortex Research AI"
+    />
+  </a>
+</p>
+
 ---
 
 ### 🛡️ SentinelX AI — Intelligent Fraud and Threat Detection
 
-> An AI-powered security platform designed to analyse suspicious messages, emails and URLs.
+> An AI-powered security platform designed to analyse suspicious messages, emails and potentially harmful URLs.
 
 - Fraudulent SMS detection
 - Phishing email analysis
 - Suspicious URL scanning
-- Machine-learning-based classification
+- Machine-learning classification
 - Natural-language processing
 - Fraud-risk scoring
 - Explainable prediction results
-- Secure authentication system
+- FastAPI backend and React frontend
 
 **Tech Stack**
 
 `Python` `FastAPI` `Scikit-learn` `NLP` `React`
 
+<p>
+  <a href="https://github.com/ayusman7327?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View SentinelX AI"
+    />
+  </a>
+</p>
+
 ---
 
 ### 💼 BusinessOS AI — AI Business Management Platform
 
-> A full-stack business operating platform that centralizes customers, inventory, invoices and intelligent business assistance.
+> A full-stack platform that centralizes customers, inventory, products, invoices and intelligent business assistance.
 
 - Customer relationship management
 - Product and inventory tracking
 - Invoice generation
 - AI-powered business assistant
 - Business analytics dashboard
-- JWT authentication and protected routes
-- MongoDB database integration
+- JWT authentication
+- Protected application routes
+- MongoDB integration
 
 **Tech Stack**
 
 `React` `Node.js` `Express.js` `MongoDB` `JWT` `Google Gemini`
+
+<p>
+  <a href="https://github.com/ayusman7327?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View BusinessOS AI"
+    />
+  </a>
+</p>
 
 ---
 
@@ -221,9 +269,32 @@ My current work focuses on:
 
 `React` `Node.js` `Express.js` `MongoDB` `Recharts` `JWT`
 
+<p>
+  <a href="https://github.com/ayusman7327?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View FinWise AI"
+    />
+  </a>
+</p>
+
 ---
 
-## 📊 GitHub Stats and Activity
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/ayusman7327/ayusman7327/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Ayusman's contribution animation"
+/>
+
+</div>
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -246,7 +317,7 @@ My current work focuses on:
 
 </div>
 
-> GitHub also displays my native contribution calendar directly below this README on my profile.
+> GitHub also displays my native contribution calendar directly below this README.
 
 ---
 
@@ -258,32 +329,43 @@ My current work focuses on:
 - LangChain and LangGraph
 - Multi-agent AI systems
 - Machine-learning pipelines
-- Backend architecture
+- FastAPI backend development
 - PostgreSQL and SQL databases
 - Docker and application deployment
 - System design fundamentals
 
 ---
 
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayusman_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:mishraayushman516@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mishraayushman516-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/ayusman7327">
-    <img src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
+## 🤝 Connect With Me
 
 <div align="center">
+
+<p>
+Open to software development opportunities, technical collaborations and discussions about full-stack development, artificial intelligence and machine learning.
+</p>
+
+<a href="https://www.linkedin.com/in/ayusman-mishra-b76976352">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Ayusman_Mishra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:mishraayushman516@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-mishraayushman516-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
+
+<a href="https://github.com/ayusman7327">
+  <img
+    src="https://img.shields.io/badge/GitHub-ayusman7327-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<br/><br/>
 
 ### Building intelligent products, solving real problems and improving with every commit.
 
