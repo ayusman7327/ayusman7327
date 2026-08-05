@@ -280,20 +280,6 @@ I enjoy building complete software products that combine modern interfaces, scal
 
 ---
 
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/ayusman7327/ayusman7327/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="Ayusman's contribution animation"
-/>
-
-</div>
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
